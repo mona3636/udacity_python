@@ -32,3 +32,4 @@ Steps:
 * Also, import media and fresh_tomatoes to the entertainment_center.py file
 * Run entertainment_center.py to open the movie website 
 * That's it!
+* NOTE: You can also simply download the files, save them in one folder, and run entertainment_center.py
