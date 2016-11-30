@@ -2,7 +2,6 @@
 The project submission shows a simple movie trailer website that lists some of my favorite movies, and includes links to their poster images and trailers. This is my submission for the first project in the Udacity full stack web developer nanodegree program. 
 
 # Recreate this Python Mobie Website Project
-To create your own python movie website, 
 1. Download Python (at least 2.7) here: https://www.python.org/download/releases/2.7/
 2. Create a file named media.py containing class movie with properties that most movies share (such as title) and functions (actions) that the class will take
 ```
