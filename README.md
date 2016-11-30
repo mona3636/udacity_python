@@ -27,8 +27,8 @@ To create your own python movie website,
 ```
     movies = [song_of_the_sea, wall_e, ratatouille, alien, harry_potter, best_in_show]
 ```
-* Import media and fresh_tomatoes to the entertainment_center.py file
 * Create a file named fresh_tomatoes.py that takes the list of movies and creates a website displaying their details. This file contains HTML info needed to style the page output relatively nicely.
 * Make sure to import all necessary python modules to all files (example: webbrowser), and save all files in the same folder
+* Also, import media and fresh_tomatoes to the entertainment_center.py file
 * Run entertainment_center.py to open the movie website 
 * That's it!
