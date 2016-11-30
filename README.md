@@ -16,7 +16,7 @@ To create your own python movie website,
     def show_image(self):
         webbrowser.open(self.poster_image_url
  ```
-* Create file named entertainment_center.py with the list of movies containing the properties created in class Movie. Example:
+* Create file named entertainment_center.py with the list of movies containing the properties created in class Movie.. Example:
 ```
     song_of_the_sea = media.Movie("Song-of-the-sea",
                         "A boy saves his selkie sister's life by finding her enchanted coat.",
@@ -27,5 +27,8 @@ To create your own python movie website,
 ```
     movies = [song_of_the_sea, wall_e, ratatouille, alien, harry_potter, best_in_show]
 ```
+* Import media and fresh_tomatoes to the entertainment_center.py file
 * Create a file named fresh_tomatoes.py that takes the list of movies and creates a website displaying their details. This file contains HTML info needed to style the page output relatively nicely.
+* Make sure to import all necessary python modules to all files (example: webbrowser), and save all files in the same folder
+* Run entertainment_center.py to open the movie website 
 * That's it!
